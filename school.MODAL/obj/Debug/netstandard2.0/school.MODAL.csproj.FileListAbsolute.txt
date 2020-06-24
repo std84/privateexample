@@ -1,0 +1,8 @@
+C:\xampp\htdocs\school\school.MODAL\bin\Debug\netstandard2.0\school.MODAL.deps.json
+C:\xampp\htdocs\school\school.MODAL\bin\Debug\netstandard2.0\school.MODAL.dll
+C:\xampp\htdocs\school\school.MODAL\bin\Debug\netstandard2.0\school.MODAL.pdb
+C:\xampp\htdocs\school\school.MODAL\obj\Debug\netstandard2.0\school.MODAL.AssemblyInfoInputs.cache
+C:\xampp\htdocs\school\school.MODAL\obj\Debug\netstandard2.0\school.MODAL.AssemblyInfo.cs
+C:\xampp\htdocs\school\school.MODAL\obj\Debug\netstandard2.0\school.MODAL.dll
+C:\xampp\htdocs\school\school.MODAL\obj\Debug\netstandard2.0\school.MODAL.pdb
+C:\xampp\htdocs\school\school.MODAL\obj\Debug\netstandard2.0\school.MODAL.csprojAssemblyReference.cache

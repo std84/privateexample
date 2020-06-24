@@ -1,0 +1,13 @@
+C:\xampp\htdocs\school\school.REPOSITORY\bin\Debug\netstandard2.0\school.REPOSITORY.deps.json
+C:\xampp\htdocs\school\school.REPOSITORY\bin\Debug\netstandard2.0\school.REPOSITORY.dll
+C:\xampp\htdocs\school\school.REPOSITORY\bin\Debug\netstandard2.0\school.REPOSITORY.pdb
+C:\xampp\htdocs\school\school.REPOSITORY\bin\Debug\netstandard2.0\school.DATA.dll
+C:\xampp\htdocs\school\school.REPOSITORY\bin\Debug\netstandard2.0\school.MODAL.dll
+C:\xampp\htdocs\school\school.REPOSITORY\bin\Debug\netstandard2.0\school.MODAL.pdb
+C:\xampp\htdocs\school\school.REPOSITORY\bin\Debug\netstandard2.0\school.DATA.pdb
+C:\xampp\htdocs\school\school.REPOSITORY\obj\Debug\netstandard2.0\school.REPOSITORY.csprojAssemblyReference.cache
+C:\xampp\htdocs\school\school.REPOSITORY\obj\Debug\netstandard2.0\school.REPOSITORY.AssemblyInfoInputs.cache
+C:\xampp\htdocs\school\school.REPOSITORY\obj\Debug\netstandard2.0\school.REPOSITORY.AssemblyInfo.cs
+C:\xampp\htdocs\school\school.REPOSITORY\obj\Debug\netstandard2.0\school.REPOSITORY.csproj.CopyComplete
+C:\xampp\htdocs\school\school.REPOSITORY\obj\Debug\netstandard2.0\school.REPOSITORY.dll
+C:\xampp\htdocs\school\school.REPOSITORY\obj\Debug\netstandard2.0\school.REPOSITORY.pdb

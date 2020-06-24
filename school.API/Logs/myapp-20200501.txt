@@ -1,0 +1,6 @@
+2020-05-01T17:35:29.0089825+03:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2020-05-01T17:35:29.0377463+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-05-01T17:35:29.0412869+03:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-05-01T17:35:29.0478055+03:00  [INF] Content root path: "C:\xampp\htdocs\school\school.API" (b5d60022)
+2020-05-01T17:35:30.7881853+03:00 0HLVDRJIRL2P0:00000001 [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-05-01T17:35:30.8825819+03:00 0HLVDRJIRL2P0:00000001 [WRN] Failed to determine the https port for redirect. (ca76cc21)

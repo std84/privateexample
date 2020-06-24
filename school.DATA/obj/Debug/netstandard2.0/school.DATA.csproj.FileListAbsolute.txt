@@ -1,0 +1,11 @@
+C:\xampp\htdocs\school\school.DATA\bin\Debug\netstandard2.0\school.DATA.deps.json
+C:\xampp\htdocs\school\school.DATA\bin\Debug\netstandard2.0\school.DATA.dll
+C:\xampp\htdocs\school\school.DATA\bin\Debug\netstandard2.0\school.DATA.pdb
+C:\xampp\htdocs\school\school.DATA\bin\Debug\netstandard2.0\school.MODAL.dll
+C:\xampp\htdocs\school\school.DATA\bin\Debug\netstandard2.0\school.MODAL.pdb
+C:\xampp\htdocs\school\school.DATA\obj\Debug\netstandard2.0\school.DATA.csprojAssemblyReference.cache
+C:\xampp\htdocs\school\school.DATA\obj\Debug\netstandard2.0\school.DATA.AssemblyInfoInputs.cache
+C:\xampp\htdocs\school\school.DATA\obj\Debug\netstandard2.0\school.DATA.AssemblyInfo.cs
+C:\xampp\htdocs\school\school.DATA\obj\Debug\netstandard2.0\school.DATA.csproj.CopyComplete
+C:\xampp\htdocs\school\school.DATA\obj\Debug\netstandard2.0\school.DATA.dll
+C:\xampp\htdocs\school\school.DATA\obj\Debug\netstandard2.0\school.DATA.pdb
